@@ -90,8 +90,7 @@ void inputBMatrix(float (&B)[1][2])
 
 int main()
 {
-    // int x = 4;
-    // callbyvalue(x);
+    // callbyvalue(x)
     // cout << x << endl;
     // callbyreference(x);
     // cout << x << endl;
