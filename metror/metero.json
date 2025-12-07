@@ -1,0 +1,29 @@
+{
+    "events": [
+        {
+            "x": 3,
+            "y": 7,
+            "power":1,
+            "powerLength":3
+
+        },
+        {
+            "x": 6,
+            "y": 3,
+            "power":1,
+            "powerLength":5
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "power":1,
+            "powerLength":3
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "power":1,
+            "powerLength":3
+        }
+    ]
+}
