@@ -1,14 +1,24 @@
 #include <iostream>
-#include <string>
 using namespace std;
+int a, b;
 int main()
 {
-    int fDhglgjs=21.9822; //整數
-    float Num=1553.544722; //浮點數
-    double c=Num;
-    char x='a';
-    bool h=0;
-    unsigned int i=0;
-    cout<<i-1<<endl;
+    cin >> a >> b;
+    int v[a][b];
+    for (int x = 0; x < a; x++)
+    {
+        for (int y = 0; y < b; y++)
+        {
+            cin >> v[x][y];
+        }
+    }
+    for (int j = 0; j < b; j++)
+    {
+        for (int k = 0; k < a; k++)
+        {
+            cout << v[k][j]<<" ";
+        }
+        cout << endl;
+    }
     return 0;
 }

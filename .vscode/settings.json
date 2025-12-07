@@ -1,11 +1,8 @@
 {
     "files.associations": {
-        "ostream": "cpp",
         "iostream": "cpp",
-        "iosfwd": "cpp",
-        "fstream": "cpp",
-        "string": "cpp",
-        "vector": "cpp"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
+        "ostream": "cpp",
+        "random": "cpp",
+        "iosfwd": "cpp"
+    }
 }
